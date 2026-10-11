@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+D:/Code/cpp/learning_project/customize_project/CMakeLists.txt
+D:/Code/cpp/learning_project/customize_project/build/CMakeFiles/4.3.0-rc2/CMakeCXXCompiler.cmake
+D:/Code/cpp/learning_project/customize_project/build/CMakeFiles/4.3.0-rc2/CMakeRCCompiler.cmake
+D:/Code/cpp/learning_project/customize_project/build/CMakeFiles/4.3.0-rc2/CMakeSystem.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/CMakeCXXInformation.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/CMakeCommonLanguageInclude.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/CMakeGenericSystem.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/CMakeInitializeConfigs.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/CMakeLanguageInformation.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/CMakeRCInformation.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/CMakeSystemSpecificInformation.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/CMakeSystemSpecificInitialize.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Compiler/MSVC-CXX.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Compiler/MSVC.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Internal/CMakeCXXLinkerInformation.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Internal/CMakeCommonLinkerInformation.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Linker/MSVC-CXX.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Linker/MSVC.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Platform/Linker/Windows-MSVC.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Platform/Windows-Initialize.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Platform/Windows-MSVC.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Platform/Windows.cmake
+D:/tools/cmake/share/cmake-4.3/Modules/Platform/WindowsPaths.cmake

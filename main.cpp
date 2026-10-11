@@ -2,15 +2,15 @@
 #include <iostream>
 #include <string>
 #include <vector>
-std::vector<std::string> splitStr(const std::string &s, char delim) {
+std::vector<std::string> splitStr(const std::string &str, char delim) {
     std::vector<std::string> res;
-    size_t start = 0, pos = s.find(delim);
+    size_t start = 0, pos = str.find(delim);
     while (pos != std::string::npos) {
-        res.push_back(s.substr(start, pos - start));
+        res.push_back(str.substr(start, pos - start));
         start = pos + 1;
-        pos = s.find(delim, start);
+        pos = str.find(delim, start);
     }
-    res.push_back(s.substr(start));
+    res.push_back(str.substr(start));
     return res;
 }
 int main() {
@@ -18,7 +18,13 @@ int main() {
     std::string line;
     while (getline(std::cin, line)) {
         std::vector<std::string> tokens = splitStr(line, ' ');
+
         if (tokens[0] == "push") {
+            if (tokens.size() < 2) {
+                std::cerr << "Error: push command requires a value."
+                          << std::endl;
+                continue;
+            }
             bd.push(stoi(tokens[1]));
         } else if (tokens[0] == "pop") {
             auto value = bd.pop();

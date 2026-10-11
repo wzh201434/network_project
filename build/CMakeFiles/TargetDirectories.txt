@@ -1,0 +1,3 @@
+D:/Code/cpp/learning_project/customize_project/build/CMakeFiles/product_consumer.dir
+D:/Code/cpp/learning_project/customize_project/build/CMakeFiles/ALL_BUILD.dir
+D:/Code/cpp/learning_project/customize_project/build/CMakeFiles/ZERO_CHECK.dir
